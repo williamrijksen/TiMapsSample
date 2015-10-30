@@ -1,0 +1,6 @@
+<Alloy>
+	<Window class="container">
+		<Button onClick="openDefaultMap">Default</Button>
+		<Button onClick="openCenterOffsetMap" top="50dp">Center offset</Button>
+	</Window>
+</Alloy>
